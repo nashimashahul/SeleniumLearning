@@ -1,0 +1,28 @@
+2017-07-22 12:40:17,933 INFO  [OptimisedMultipleTests] Opening Chrome 
+2017-07-22 12:40:19,667 INFO  [OptimisedMultipleTests] Chrome is opened and maxmised 
+2017-07-22 12:40:19,683 INFO  [OptimisedMultipleTests] Hit the BING URL 
+2017-07-22 12:40:21,186 INFO  [OptimisedMultipleTests] BING opened 
+2017-07-22 12:40:21,193 INFO  [OptimisedMultipleTests] Hit the google URL 
+2017-07-22 12:40:24,221 INFO  [OptimisedMultipleTests] Google opened 
+2017-07-22 12:40:25,134 INFO  [OptimisedMultipleTests] Test execution done. Browser closed 
+2017-07-22 12:43:31,464 INFO  [OptimisedMultipleTests] Opening Chrome 
+2017-07-22 12:43:33,361 INFO  [OptimisedMultipleTests] Chrome is opened and maxmised 
+2017-07-22 12:43:33,399 INFO  [OptimisedMultipleTests] Hit the BING URL 
+2017-07-22 12:43:35,834 INFO  [OptimisedMultipleTests] BING opened 
+2017-07-22 12:43:35,836 INFO  [OptimisedMultipleTests] Hit the google URL 
+2017-07-22 12:43:43,357 INFO  [OptimisedMultipleTests] Google opened 
+2017-07-22 12:43:44,313 INFO  [OptimisedMultipleTests] Test execution done. Browser closed 
+2017-07-23 11:08:46,713 INFO  [OptimisedMultipleTests] Opening Chrome 
+2017-07-23 11:09:10,155 INFO  [OptimisedMultipleTests] Chrome is opened and maxmised 
+2017-07-23 11:09:10,279 INFO  [OptimisedMultipleTests] Hit the BING URL 
+2017-07-23 11:09:19,985 INFO  [OptimisedMultipleTests] BING opened 
+2017-07-23 11:09:19,989 INFO  [OptimisedMultipleTests] Hit the google URL 
+2017-07-23 11:09:27,591 INFO  [OptimisedMultipleTests] Google opened 
+2017-07-23 11:09:36,840 INFO  [OptimisedMultipleTests] Test execution done. Browser closed 
+2017-07-23 14:18:18,630 INFO  [OptimisedMultipleTests] Opening Chrome 
+2017-07-23 14:18:28,131 INFO  [OptimisedMultipleTests] Chrome is opened and maxmised 
+2017-07-23 14:18:28,163 INFO  [OptimisedMultipleTests] Hit the BING URL 
+2017-07-23 14:18:34,480 INFO  [OptimisedMultipleTests] BING opened 
+2017-07-23 14:18:34,483 INFO  [OptimisedMultipleTests] Hit the google URL 
+2017-07-23 14:18:46,611 INFO  [OptimisedMultipleTests] Google opened 
+2017-07-23 14:18:48,848 INFO  [OptimisedMultipleTests] Test execution done. Browser closed 

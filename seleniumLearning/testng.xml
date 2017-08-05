@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Test Suite"  verbose="2">
+<parameter name="testingType" value="performance"/> 
+	<test name="Run multiple tests">
+	<!-- <groups>
+            <run>
+                <include name="Apple" />
+                <include name="MI" />
+            </run>
+        </groups>     -->
+		<classes>
+			<!-- <class name="seleniumBasicWithTestNG.OpenGoogleWithTestNG" /> 
+			<class name="seleniumBasicWithTestNG.OptimisedMultipleTests" />
+			<class name="seleniumBasicWithTestNG.PriorityRun" />
+			<class name="seleniumBasicWithTestNG.MultipleTests" />
+			<class name="seleniumBasicWithTestNG.SkipATestCase" />	
+			<class name="seleniumBasicWithTestNG.DecideBrowserAtRunTime"/>  
+			<class name="seleniumBasicWithTestNG.ParametrizationExample"/>
+			<class name="seleniumBasicWithTestNG.GroupTesting"/>-->
+			<class name="seleniumBasicWithTestNG.ParallelExecution"/>		
+		</classes>
+	</test>
+</suite> 
+
